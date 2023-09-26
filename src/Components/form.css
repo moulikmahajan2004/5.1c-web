@@ -1,0 +1,71 @@
+.class1{
+    background-color: rgb(169, 165, 165);
+}
+
+.point1{
+    text-align: left;
+    margin-left: 8px;   
+    font-size: large;
+}
+
+.Title
+{
+    margin-left: 8px;;
+}
+.p2{
+    width: 1237px;
+    padding: 2px;
+    margin-left: 12px;
+    border-color: black;
+    padding: 3px 5px;
+}
+
+.p3{
+    text-align: left;
+    margin-left: 15px;
+    margin-bottom: 2px;
+    
+}
+
+.font4{
+    width: 1237px;
+    padding: 2px;
+    margin-left: 12px;
+    border-color: black;
+    padding: 3px 5px;
+    margin-top: 5px;
+}
+
+.paragh{
+    height: 50px;
+    width: 98%;
+    border-color: black;
+    text-decoration: none;
+    border-width: 2px;
+    margin-left: 10px;
+}
+
+.point3{
+    height: 190px;
+    width: 98%;
+    border-color: black;
+    text-decoration: none;
+    border-width: 2px;
+    margin-left: 10px;
+    margin-top: -1%;
+}
+  
+.Btn{
+    padding: 8px;
+    padding-bottom: 3px;
+    background-color: grey;
+    padding: 0 35px;
+    margin-left: 1150px;
+    font-size: medium;
+    height: 20px;
+}
+.article
+{
+    margin-left: 1%;
+}
+
